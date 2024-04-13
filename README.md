@@ -1,6 +1,6 @@
-# Bank Nifty Minute Data with Intervals Ranging from 1 Minute to 1 Day
+# Bank Nifty Data with Intervals Ranging from 1 Minute to 1 Day
 
-This dataset contains minute-level data for Bank Nifty with intervals ranging from 1 minute to 1 day. It spans from January 9, 2015, to April 12, 2024.
+This dataset contains minute-level data for Bank Nifty with intervals ranging from 1 minute to 1 day.
 
 
 ## Content
