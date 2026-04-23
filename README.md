@@ -6,7 +6,7 @@ This dataset contains minute-level data for Bank Nifty with intervals ranging fr
 ## Content
 The dataset includes the following CSV files:
 
-- **bank-nifty-1m-data.csv:** Contains data from January 9, 2015, to March 22, 2024.
+- **bank-nifty-1m-data.csv:** Contains data from January 9, 2015, to April 22, 2026.
 - **bank-nifty-5m-data.csv:** Contains data from January 9, 2015, to April 9, 2024.
 - **bank-nifty-15m-data.csv:** Contains data from January 9, 2015, to April 12, 2024.
 - **bank-nifty-1h-data.csv:** Contains data from January 9, 2015, to April 4, 2024.
